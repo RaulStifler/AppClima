@@ -3,4 +3,10 @@
     <string name="grados">28°</string>
     <string name="ciudad">Guadalajara, Jalisco</string>
     <string name="status">Nublado</string>
+    <string name="bienvenida">Bienvenido a mi App del clima, para poder ver el clima de una ciudad selecciona la opción de abajo.</string>
+    <string name="texto_cdmx">Ciudad de México</string>
+    <string name="texto_guadalajara">Guadalajara</string>
+    <string name="texto_monterrey">Monterrey</string>
+    <string name="texto_queretaro">Queretaro</string>
+    <string name="texto_naco">Naco, Sonora</string>
 </resources>
