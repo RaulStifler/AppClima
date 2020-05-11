@@ -1,0 +1,6 @@
+<resources>
+    <string name="app_name">AppClima</string>
+    <string name="grados">28°</string>
+    <string name="ciudad">Guadalajara, Jalisco</string>
+    <string name="status">Nublado</string>
+</resources>
